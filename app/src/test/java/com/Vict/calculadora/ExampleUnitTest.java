@@ -1,4 +1,4 @@
-package com.victor.calculadora;
+package com.Vict.calculadora;
 
 import org.junit.Test;
 

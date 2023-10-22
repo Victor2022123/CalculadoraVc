@@ -1,4 +1,4 @@
-package com.pedro.calculadora;
+package com.Vict.calculadora;
 
 import android.content.Context;
 

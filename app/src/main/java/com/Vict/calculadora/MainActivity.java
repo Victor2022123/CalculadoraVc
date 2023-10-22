@@ -1,4 +1,4 @@
-package com.pedro.calculadora;
+package com.Vict.calculadora;
 
 import android.os.Bundle;
 import android.view.View;
